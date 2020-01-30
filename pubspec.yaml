@@ -1,0 +1,13 @@
+name: click_propagation_web_platformview
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  test_platform_view:
+    path: test_platform_view
