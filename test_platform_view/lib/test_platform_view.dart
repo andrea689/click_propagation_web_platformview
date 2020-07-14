@@ -1,4 +1,4 @@
-import 'dart:ui' as ui;
+import './ui_fake.dart' if (dart.library.html) 'dart:ui' as ui;
 import 'dart:html';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 import 'package:flutter/material.dart';
